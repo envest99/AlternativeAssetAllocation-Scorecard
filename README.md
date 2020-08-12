@@ -1,4 +1,4 @@
-# Scorecard for Alternative Assets
+# Proposal: Scorecard for Alternative Assets
 The aim is to verify the effectiveness of the scorecard concept on real estate investments in the Morningstar data-base. Fortunately, the
 number of classic and alternative investment opportunities increases constantly. An automated scorecard process helps to profit from the 
 increased number of investment companies and to improve the due diligence efficiency. The following proven scorecard concept uses 8 quanti-
